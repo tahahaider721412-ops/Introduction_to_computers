@@ -50,4 +50,4 @@ a computer is an electronic devise that accepts data as input, process  it accor
 - **roll number:** 26K-3118
 - **section:** SE-1D
 
-  ![ COMPUTER ](capture.png)
+  ![ COMPUTER ](Capture.PNG)
