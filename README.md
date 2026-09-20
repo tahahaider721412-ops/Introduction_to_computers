@@ -25,7 +25,7 @@ a computer is an electronic devise that accepts data as input, process  it accor
 - modern computers
 ## tools used 
 - git
-- -github
+- github
 - markdown
 ## project workflow
 1. create repository
@@ -46,6 +46,6 @@ a computer is an electronic devise that accepts data as input, process  it accor
 ## link
 [GitHub](http//github.com/)
 ## student information 
-- **name :** your name
-- **roll number:**
-- **section:** your section
+- **name : syed Muhammad Taha Haider
+- **roll number:** 26K-3118
+- **section:** SE-1D
