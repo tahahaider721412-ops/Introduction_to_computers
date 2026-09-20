@@ -49,3 +49,5 @@ a computer is an electronic devise that accepts data as input, process  it accor
 - **name : syed Muhammad Taha Haider
 - **roll number:** 26K-3118
 - **section:** SE-1D
+
+  ![ COMPUTER ](capture.png)
